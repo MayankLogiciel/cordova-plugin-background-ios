@@ -15,11 +15,7 @@ Use the plugin at your own risk!
 ## Installation
 The plugin can be installed via [Cordova-CLI][CLI] and is publicly available on [NPM][npm].
 	
-`$ cordova plugin add https://github.com/Anuj-Raghuvanshi/cordova-plugin-bg-geolocation.git`
-
-OR
-
-`$ cordova plugin add cordova-plugin-bg-geolocation`
+`$ cordova plugin add https://github.com/MayankLogiciel/cordova-plugin-background-ios.git`
 
 ## Plugin options & usage
 
